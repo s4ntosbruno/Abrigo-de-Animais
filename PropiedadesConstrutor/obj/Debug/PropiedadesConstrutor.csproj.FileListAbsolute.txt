@@ -1,0 +1,9 @@
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\bin\Debug\PropiedadesConstrutor.exe.config
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\bin\Debug\PropiedadesConstrutor.exe
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\bin\Debug\PropiedadesConstrutor.pdb
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\obj\Debug\PropiedadesConstrutor.csprojAssemblyReference.cache
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\obj\Debug\PropiedadesConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\obj\Debug\PropiedadesConstrutor.exe
+C:\Users\Bruno Santos\source\repos\PropiedadesConstrutor\PropiedadesConstrutor\obj\Debug\PropiedadesConstrutor.pdb
+D:\Documents\Projetos\Abrigo de animais em C#\PropiedadesConstrutor\obj\Debug\PropiedadesConstrutor.exe
+D:\Documents\Projetos\Abrigo de animais em C#\PropiedadesConstrutor\obj\Debug\PropiedadesConstrutor.pdb
